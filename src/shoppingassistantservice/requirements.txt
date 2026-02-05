@@ -149,7 +149,7 @@ numpy==2.3.3
     #   langchain-google-alloydb-pg
     #   langchain-postgres
     #   pgvector
-orjson==3.11.3
+orjson==3.11.5
     # via
     #   langgraph-sdk
     #   langsmith
@@ -168,7 +168,7 @@ proto-plus==1.26.1
     #   google-api-core
     #   google-cloud-alloydb
     #   google-cloud-secret-manager
-protobuf==6.32.1
+protobuf==6.33.5
     # via
     #   google-api-core
     #   google-cloud-alloydb
